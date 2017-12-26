@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationTouringGo", "WebApplicationTouringGo\WebApplicationTouringGo.csproj", "{39998AEE-61EB-4F78-8C23-FA277F843811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39998AEE-61EB-4F78-8C23-FA277F843811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39998AEE-61EB-4F78-8C23-FA277F843811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39998AEE-61EB-4F78-8C23-FA277F843811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39998AEE-61EB-4F78-8C23-FA277F843811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C9BE80-218A-4D98-B37B-29C1E834BEB4}
+	EndGlobalSection
+EndGlobal
